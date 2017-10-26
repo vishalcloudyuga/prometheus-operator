@@ -36,7 +36,7 @@ service:
 
   ## Service type
   ##
-  type: ClusterIP
+  type: NodePort
 
 ## Grafana Docker image
 ##
