@@ -148,7 +148,7 @@ service:
 
   ## Service type
   ##
-  type: ClusterIP
+  type: NodePort
 
 ## Service monitors selector
 ## Ref: https://github.com/coreos/prometheus-operator/blob/master/Documentation/design.md
